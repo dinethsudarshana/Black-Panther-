@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['94769983151']
+global.OwnerNumber = ['94769983151']
+global.ownertag = ['94769983151']
+global.BotName = "BLACK PANTHER-MD"
+global.packname = "BLACK PANTHER-MD"
+global.author = "By: DINETH"
+global.OwnerName = "DINETH SUDARSHANA"
+global.BotSourceCode = "https://github.com/dinethsudarshana/Black-Panther"
+global.SupportGroupLink = "https://chat.whatsapp.com/LTV0dhU9loB2ktcxNayFry"
 global.sessionName = "session"
 
 
@@ -27,7 +27,7 @@ global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/dinethsudarshana"
 global.lolhuman = "KaysaS"
 
 
